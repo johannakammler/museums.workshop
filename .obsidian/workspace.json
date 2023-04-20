@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "67b47705823b7d2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "004f106d2809b4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e2bed5465f46c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/How to use the special features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b91a60c318e5098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Frontmatter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30bef3eac15a51e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Nikolaikirche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d52e822bc772d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e6bed333258ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86cff8585796019",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea040695dc14a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32f60eea3ba9c9b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77b5fe46eef8f35c",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a732fa713d43d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fba3de1c3e6f051",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Nikolaikirche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df2376a8acb86bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Nikolaikirche.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e6bee75c96a5f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a81427ad967db5e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Nikolaikirche.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30bef3eac15a51e2",
+  "lastOpenFiles": [
+    "_templates/Frontmatter.md",
+    "_notes/Nikolaikirche.md",
+    "_notes/How to use the special features.md",
+    "_templates"
+  ]
+}
