@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_notes/Nikolaikirche.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_notes/Nikolaikirche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_notes/Nikolaikirche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_notes/Nikolaikirche.md"
               }
             }
           }
@@ -185,10 +185,10 @@
   },
   "active": "1c0fd7e2ec61db3c",
   "lastOpenFiles": [
-    "about.md",
     "_notes/How to use the special features.md",
-    "_notes/Nikolaikirche.md",
     "index.md",
+    "about.md",
+    "_notes/Nikolaikirche.md",
     "assets/img/profile.png",
     "assets/img/screenshot.png",
     "assets/img/new notes pref.png",
