@@ -12,18 +12,18 @@ permalink: /nikolaikirche
 	- Die Kombination von Nikolaikirche und Markt war wohl im Mittelalter nichts ungewöhnliches. [[[Liste von Nikolaikirchen – Wikipedia](https://de.wikipedia.org/wiki/Liste_von_Nikolaikirchen)::rsn]] 
 - Die Kirche wurde wohl im zweiten Viertel des 13. Jahrhunderts erbaut, im Rahmen der Neuanlage des ganzen Stadtviertels und Aufgrund der romanischen Prägung.[[Eberhardt, Herman: Die Nikolaikirche zu Siegen. Ihre Geschichte und was es an ihr und in ihr zu sehen gibt. Hrsg. vom Presbyterium der Evangelischen Nikolai-Kirchengemeinde Siegen, Siegen 1996, S. 1.::rsn]] 
 	- erstmals urkundlich erwähnt 1317[[Mainzer, Udo: Die Nikolaikirche in Siegen, in: Diener, Andreas et al. (Hrsg.): Entwerfen und Verwerfen: Planwechsel in Kunst und Architektur des Mittelalters und der Frühen Neuzeit. Festschrift für Matthias Untermann zum 65. Geburtstag, Heidelberg: arthistoricum.net, 2022, S. 537.::rsn]]
-	- einzige sechseckige Kirche in Deutschland[^4]
-- Von 1607 bis ca. 1820 war eine Lateinschule im Dach des Kirchenschiffs untergebracht.[^6] Daraus wurde später das heutige Gymnasium Am Löhrtor[^10]
+	- einzige sechseckige Kirche in Deutschland[[Mainzer: Nikolairiche, S. 545.:srn]]
+- Von 1607 bis ca. 1820 war eine Lateinschule im Dach des Kirchenschiffs untergebracht.[[Eberhard: Nikolaikirche, S. 3.::srn]] Daraus wurde später das heutige Gymnasium Am Löhrtor[[Eberhardt: Nikolaikirche, S. 4.::srn]]
 - Krönchen:
-	- gestiftet im Jahr 1652 von [[Johann Moritz von Nassau-Siegen]], aufgestellt 1658[^7]
-	- heißt Krönchen, obwohl die Krone ziemlich groß ist: (1,90 hoch, 235 Durchmesser)[^8]
+	- gestiftet im Jahr 1652 von [[Johann Moritz von Nassau-Siegen]], aufgestellt 1658[[Eberhardt: Nikolaikirche, S. 3.::srn]]
+	- heißt Krönchen, obwohl die Krone ziemlich groß ist: (1,90 hoch, 235 Durchmesser)[[Eberhardt: Nikolaikirche, S. 3.::srn]]
 	- Wahrzeichen der Stadt
-	- Original ist aus vergoldetem Eisen, in den 1990ern sie wurde aber gegen eine Replik aus vergoldetem Edelstahl getauscht [^9] (Achtung, Quellenangabe zu den Materialien fehlt noch)
-- Das Kirchenschiff wurde im Luftangriff vom 16. Dezember 1944 zerstört, der Turm blieb stehen[^11]
+	- Original ist aus vergoldetem Eisen, in den 1990ern sie wurde aber gegen eine Replik aus vergoldetem Edelstahl getauscht [[Eberhardt: Nikolaikirche, S. 10.::srn]] (Achtung, Quellenangabe zu den Materialien fehlt noch)
+- Das Kirchenschiff wurde im Luftangriff vom 16. Dezember 1944 zerstört, der Turm blieb stehen[[Eberhardt: Nikolaikirche, S. 7, Mainzer: Nikolaikirche, S. 543.::srn]]
 
 ## Interpretationen
 
-- "Der Windpfeil [über dem Krönchen] mißt 3,18 m und symboli siert, daß auch Fürstenkronen der Macht dessen unterstellt sind, der Wolken Luft und Winden Wege, Lauf und Bahn gibt"[^5]
+- "Der Windpfeil [über dem Krönchen] mißt 3,18 m und symboli siert, daß auch Fürstenkronen der Macht dessen unterstellt sind, der Wolken Luft und Winden Wege, Lauf und Bahn gibt"[[Eberhardt: Nikolaikirche, S. 3.::srn]]
 
 ## Informationen mit fehlenden Quellenangaben
 
