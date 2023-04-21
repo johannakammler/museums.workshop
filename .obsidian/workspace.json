@@ -183,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c0fd7e2ec61db3c",
+  "active": "b86cff8585796019",
   "lastOpenFiles": [
+    "_layouts/home.html",
+    "_layouts/default.html",
     "_notes/Nikolaikirche.md",
     "_templates/Frontmatter.md",
     "index.md",
