@@ -4,6 +4,7 @@
 
 layout: post
 permalink: /
+title: index
 ---
 
 Das ist ein Test, was auf der Frontseite auftaucht.

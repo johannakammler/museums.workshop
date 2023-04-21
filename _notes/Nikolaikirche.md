@@ -12,7 +12,7 @@ permalink: /nikolaikirche
 	- Die Kombination von Nikolaikirche und Markt war wohl im Mittelalter nichts ungewöhnliches. [[[Liste von Nikolaikirchen – Wikipedia](https://de.wikipedia.org/wiki/Liste_von_Nikolaikirchen)::rsn]] 
 - Die Kirche wurde wohl im zweiten Viertel des 13. Jahrhunderts erbaut, im Rahmen der Neuanlage des ganzen Stadtviertels und Aufgrund der romanischen Prägung. [[Eberhardt, Herman: Die Nikolaikirche zu Siegen. Ihre Geschichte und was es an ihr und in ihr zu sehen gibt. Hrsg. vom Presbyterium der Evangelischen Nikolai-Kirchengemeinde Siegen, Siegen 1996, S. 1.::rsn]] 
 	- erstmals urkundlich erwähnt 1317 [[Mainzer, Udo: Die Nikolaikirche in Siegen, in: Diener, Andreas et al. (Hrsg.): Entwerfen und Verwerfen: Planwechsel in Kunst und Architektur des Mittelalters und der Frühen Neuzeit. Festschrift für Matthias Untermann zum 65. Geburtstag, Heidelberg: arthistoricum.net, 2022, S. 537.::rsn]]
-	- einzige sechseckige Kirche in Deutschland [[Mainzer: Nikolairiche, S. 545.::srn]]
+	- einzige sechseckige Kirche in Deutschland [[Mainzer: Nikolairiche, S. 545.::rsn]]
 - Von 1607 bis ca. 1820 war eine Lateinschule im Dach des Kirchenschiffs untergebracht. [[Eberhard: Nikolaikirche, S. 3.::rsn]] Daraus wurde später das heutige Gymnasium Am Löhrtor [[Eberhardt: Nikolaikirche, S. 4.::rsn]]
 - Krönchen:
 	- gestiftet im Jahr 1652 von [[Johann Moritz von Nassau-Siegen]], aufgestellt 1658[[Eberhardt: Nikolaikirche, S. 3.::rsn]]
