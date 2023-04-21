@@ -48,7 +48,9 @@ title: Home
         <div class = "box">
             {%- include header.html -%}
               
-
+<h1>{{ "Hello World!" | downcase }}</h1>
+            Hier kann ich Text reinschreiben.
+            
             {%- if page.content-type == "notes" 
                 or page.content-type == "post" 
                 or page.content-type == "eg" -%}
