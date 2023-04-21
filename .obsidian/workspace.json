@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0fd7e2ec61db3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_notes/Nikolaikirche.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,11 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30bef3eac15a51e2",
+  "active": "1c0fd7e2ec61db3c",
   "lastOpenFiles": [
+    "index.md",
+    "_notes/How to use the special features.md",
+    "assets/img/profile.png",
+    "assets/img/screenshot.png",
+    "assets/img/new notes pref.png",
+    "assets/img/fork_button.jpg",
+    "assets/img/favicon.png",
     "_templates/Frontmatter.md",
     "_notes/Nikolaikirche.md",
-    "_notes/How to use the special features.md",
     "_templates"
   ]
 }
