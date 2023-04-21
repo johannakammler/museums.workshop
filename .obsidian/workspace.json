@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/_staging/How to use the special features.md",
+                "file": "_notes/Ursprünge der Stadt Siegen.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "30bef3eac15a51e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0fd7e2ec61db3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/_staging/How-to-setup-this-site.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "685924b85b47f411",
             "type": "leaf",
             "state": {
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/_staging/How-to-setup-this-site.md",
+                "file": "_notes/Ursprünge der Stadt Siegen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/_staging/How-to-setup-this-site.md",
+                "file": "_notes/Ursprünge der Stadt Siegen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/_staging/How-to-setup-this-site.md"
+                "file": "_notes/Ursprünge der Stadt Siegen.md"
               }
             }
           }
@@ -195,25 +170,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c0fd7e2ec61db3c",
+  "active": "39e2bed5465f46c7",
   "lastOpenFiles": [
-    "index.md",
+    "_notes/_staging/How to use the special features.md",
+    "_templates/Frontmatter.md",
+    "assets/img/profile.png",
+    "assets/img/screenshot.png",
+    "assets/img/favicon.png",
+    "assets/img/fork_button.jpg",
+    "assets/img/new notes pref.png",
+    "_notes/Ursprünge der Stadt Siegen.md",
     "_notes/_staging/Beef in der Geschichtswissenschaft.md",
     "_notes/_staging/How-to-setup-this-site.md",
+    "_notes/Nikolaikirche.md",
+    "index.md",
     "_notes/_staging/how-markdown-is-rendered.md",
-    "_notes/_staging/How to use the special features.md",
     "_notes/_staging/Obsidian integration.md",
     "_notes/_staging",
     "about.md",
     "_layouts/home.html",
     "_layouts/default.html",
-    "_notes/Nikolaikirche.md",
-    "_templates/Frontmatter.md",
-    "assets/img/profile.png",
-    "assets/img/screenshot.png",
-    "assets/img/new notes pref.png",
-    "assets/img/fork_button.jpg",
-    "assets/img/favicon.png",
     "_templates"
   ]
 }
