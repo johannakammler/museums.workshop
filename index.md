@@ -6,3 +6,4 @@ layout: post
 permalink: /
 ---
 
+Das ist ein Test, was auf der Frontseite auftaucht.
