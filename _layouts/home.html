@@ -47,11 +47,13 @@ title: Home
     <div class="container">                    
         <div class = "box">
             {%- include header.html -%}
-          {%- include feed.html -%}
+
               
-<h1>{{ "Hello World!" | downcase }}</h1>
-            Hier kann ich Text reinschreiben.
-            <p>Das ist Text mit den p tags.</p>
+<h1>{{ "Herzlich willkommen!" }}</h1>
+        
+            <p>Hier kann man etwas hereinschreiben.</p>
+            
+                      {%- include feed.html -%}
             
             {%- if page.content-type == "notes" 
                 or page.content-type == "post" 
