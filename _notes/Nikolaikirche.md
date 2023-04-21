@@ -1,5 +1,5 @@
 ---
-title:
+title: Nikolaikirche
 tags: Orte
 toc: true
 season: summer
