@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/How to use the special features.md",
+                "file": "_notes/_staging/How to use the special features.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,18 @@
           },
           {
             "id": "1c0fd7e2ec61db3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/_staging/How-to-setup-this-site.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "685924b85b47f411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_notes/_staging/How-to-setup-this-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_notes/_staging/How-to-setup-this-site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_notes/_staging/How-to-setup-this-site.md"
               }
             }
           }
@@ -183,15 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b86cff8585796019",
+  "active": "1c0fd7e2ec61db3c",
   "lastOpenFiles": [
+    "index.md",
+    "_notes/_staging/Beef in der Geschichtswissenschaft.md",
+    "_notes/_staging/How-to-setup-this-site.md",
+    "_notes/_staging/how-markdown-is-rendered.md",
+    "_notes/_staging/How to use the special features.md",
+    "_notes/_staging/Obsidian integration.md",
+    "_notes/_staging",
+    "about.md",
     "_layouts/home.html",
     "_layouts/default.html",
     "_notes/Nikolaikirche.md",
     "_templates/Frontmatter.md",
-    "index.md",
-    "_notes/How to use the special features.md",
-    "about.md",
     "assets/img/profile.png",
     "assets/img/screenshot.png",
     "assets/img/new notes pref.png",
