@@ -8,7 +8,7 @@ permalink: /nikolaikirche
 
 ## Gesicherte Informationen
 
-- benannt nach dem heiligen Nikolaus von Myra,[​[Das ist eine Marginnote.::rmn]] dem Schutzpatron der Kaufleute. Das passt sehr gut zu dem Standort am Marktplatz. [​[Das ist eine Sidenote.::rsn]]
+- benannt nach dem heiligen Nikolaus von Myra, [​[Das ist eine Marginnote.::rmn]] [[Sidenote zum Testen::rsn]] dem Schutzpatron der Kaufleute. Das passt sehr gut zu dem Standort am Marktplatz. [​[[Das ist eine Sidenote.::rsn]] [[Marginnote zum Testen::rmn]]
 	- Die Kombination von Nikolaikirche und Markt war wohl im Mittelalter nichts ungewöhnliches. [^1] 
 - Die Kirche wurde wohl im zweiten Viertel des 13. Jahrhunderts erbaut, im Rahmen der Neuanlage des ganzen Stadtviertels und Aufgrund der romanischen Prägung. [^2]
 	- erstmals urkundlich erwähnt 1317[^3]
