@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e2bed5465f46c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Ursprünge der Stadt Siegen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11f6ca90670cd9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "uebersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "uebersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "uebersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "uebersicht.md"
               }
             }
           }
@@ -215,6 +202,12 @@
   },
   "active": "11f6ca90670cd9ae",
   "lastOpenFiles": [
+    "dates.md",
+    "uebersicht.md",
+    "_notes/Nikolaikirche 1.md",
+    "_notes/Ursprünge der Stadt Siegen.md",
+    "_notes/Nikolaikirche.md",
+    "index.md",
     "assets/img/favicon.png",
     "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat-mini.png",
     "assets/img/favicon_alt.png",
@@ -225,13 +218,8 @@
     "assets/img/profile_alt.png",
     "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat.jpg",
     "notes.md",
-    "index.md",
-    "dates.md",
-    "about.md",
     "_notes/_staging/Museumsführung für Kinder.md",
     "README.md",
-    "_notes/Ursprünge der Stadt Siegen.md",
-    "_notes/Nikolaikirche.md",
     "_notes/_staging/How-to-setup-this-site.md",
     "_notes/_staging/how-markdown-is-rendered.md",
     "_notes/_staging/How to use the special features.md",
@@ -239,7 +227,6 @@
     "_templates/Frontmatter.md",
     "assets/img/screenshot.png",
     "assets/img/fork_button.jpg",
-    "assets/img/new notes pref.png",
     "_notes/_staging/Obsidian integration.md",
     "_notes/_staging",
     "_layouts/home.html",
