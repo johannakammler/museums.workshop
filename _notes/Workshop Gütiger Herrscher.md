@@ -37,6 +37,4 @@ permalink:
 	- Volltext-PDF: [Brunn Gerhard - FJM in der Geschichtsschreibung.pdf](https://www.dropbox.com/scl/fi/n6sjnmsjt4n7xk2wmifjq/Brunn-Gerhard-FJM-in-der-Geschichtsschreibung.pdf?rlkey=oijeov4l8oux4m65s934tqbys&dl=0)
 -  Hermann Wätjen: Das holländische Kolonialreich in Brasilien. Ein Kapitel aus der Kolonialgeschichte des 17. Jahrhunderts, Haag/Gotha 1921.
 	- Volltext-PDF: [Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf](https://www.dropbox.com/scl/fi/5onbkbjckfd6on2t2hc2r/W-tjen-Hermann-Das-holl-ndische-Kolonialreich-in-Brasilien-1921.pdf?rlkey=11zshr44ae6403psnvyqdicp7&dl=0)
-	- ist laut Gerhard Brunn die "immer noch maßgebliche deutsche Darstellung zu Johann Mmoritz' Brasilienzeit"[^1]
-
-[^1]: Gerhard Brunn: Die brasilianischen Jahre, in: Aufbruch in neue Welten. Johann Moritz von Nassau-Siegen (1604-1679). Der Brasilianer, hg. von Gerhard Brunn et. al., Siegen 2004, S. 37.
+	- ist laut Gerhard Brunn die "immer noch maßgebliche deutsche Darstellung zu Johann Mmoritz' Brasilienzeit"[[Gerhard Brunn: Die brasilianischen Jahre, in: Aufbruch in neue Welten. Johann Moritz von Nassau-Siegen (1604-1679). Der Brasilianer, hg. von Gerhard Brunn et. al., Siegen 2004, S. 37.::rsn]]
