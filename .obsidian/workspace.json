@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "11f6ca90670cd9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/_staging/Museumsführung für Kinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3b91a60c318e5098",
             "type": "leaf",
             "state": {
@@ -42,8 +54,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d095e872a2cc49fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "977412f1ff1887eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,6 +123,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "16fbced934716318",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Ursprünge der Stadt Siegen.md",
+                "file": "_notes/_staging/Museumsführung für Kinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Ursprünge der Stadt Siegen.md",
+                "file": "_notes/_staging/Museumsführung für Kinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Ursprünge der Stadt Siegen.md"
+                "file": "_notes/_staging/Museumsführung für Kinder.md"
               }
             }
           }
@@ -170,24 +213,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39e2bed5465f46c7",
+  "active": "11f6ca90670cd9ae",
   "lastOpenFiles": [
+    "README.md",
+    "notes.md",
+    "index.md",
+    "dates.md",
+    "about.md",
+    "_notes/Ursprünge der Stadt Siegen.md",
+    "_notes/Nikolaikirche.md",
+    "_notes/_staging/Museumsführung für Kinder.md",
+    "_notes/_staging/How-to-setup-this-site.md",
+    "_notes/_staging/how-markdown-is-rendered.md",
     "_notes/_staging/How to use the special features.md",
+    "_notes/_staging/Beef in der Geschichtswissenschaft.md",
     "_templates/Frontmatter.md",
     "assets/img/profile.png",
     "assets/img/screenshot.png",
     "assets/img/favicon.png",
     "assets/img/fork_button.jpg",
     "assets/img/new notes pref.png",
-    "_notes/Ursprünge der Stadt Siegen.md",
-    "_notes/_staging/Beef in der Geschichtswissenschaft.md",
-    "_notes/_staging/How-to-setup-this-site.md",
-    "_notes/Nikolaikirche.md",
-    "index.md",
-    "_notes/_staging/how-markdown-is-rendered.md",
     "_notes/_staging/Obsidian integration.md",
     "_notes/_staging",
-    "about.md",
     "_layouts/home.html",
     "_layouts/default.html",
     "_templates"

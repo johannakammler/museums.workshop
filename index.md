@@ -7,7 +7,7 @@ permalink: /
 title: Willkommen
 ---
 
-Das ist der Text füür die Startseite, der allerdings dort nicht auftaucht. Alle Änderungen müssen auf Github unter layouts->home.html durchgeführt werden.
+Das ist der Text für die Startseite, der allerdings dort nicht auftaucht. Alle Änderungen müssen auf Github unter layouts->home.html durchgeführt werden.
 
 Herzlich willkommen in meiner kleinen Ecke des Internets. Hier möchte ich die von mir zusammengetragenen Informationen dokumentieren, vor allem zur Stadtgeschichte Siegens und zum Siegerlandmuseum.
 

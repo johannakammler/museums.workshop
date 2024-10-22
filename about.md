@@ -8,6 +8,6 @@ content-type: eg
 
 ## Technisches
 
-Diese Seite ist ein Fork von  [[notenote.link::https://github.com/Maxence-L/notenote.link]], was wiederum ein Fork von[[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]] ist. 
+Diese Seite ist ein Fork von [[https://github.com/Maxence-L/notenote.link|notenote.link]], was wiederum ein Fork von [[https://github.com/raghuveerdotnet/simply-jekyll|Simply Jekyll]] ist. 
 
-Die Texte enstehen in [[Obsidian::https://obsidian.md]] und landen dann über Github und Netlify auf einer Seite, die mit Jekyll gebaut ist.
+Die Texte enstehen in [[https://obsidian.md|Obsidian]] und landen dann über Github und Netlify auf einer Seite, die mit Jekyll gebaut ist.
