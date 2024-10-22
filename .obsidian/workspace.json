@@ -13,59 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_notes/Notizen aus dem ersten Treffen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "710a4bb74304f248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Workshop Gütiger Herrscher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e39f1fd3658d6ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "uebersicht.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b91a60c318e5098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Frontmatter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "685924b85b47f411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d095e872a2cc49fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
-            "id": "977412f1ff1887eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uebersicht.md"
+                "file": "_notes/Workshop Gütiger Herrscher.md"
               }
             }
           }
@@ -200,13 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11f6ca90670cd9ae",
+  "active": "710a4bb74304f248",
   "lastOpenFiles": [
-    "dates.md",
+    "assets/img/Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf",
+    "_notes/Workshop Gütiger Herrscher.md",
+    "assets/img/Brunn Gerhard - FJM in der Geschichtsschreibung.pdf",
+    "_notes/Notizen aus dem ersten Treffen.md",
     "uebersicht.md",
-    "_notes/Nikolaikirche 1.md",
+    "_templates/Frontmatter.md",
+    "dates.md",
     "_notes/Ursprünge der Stadt Siegen.md",
-    "_notes/Nikolaikirche.md",
+    "_notes/_staging/Nikolaikirche.md",
     "index.md",
     "assets/img/favicon.png",
     "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat-mini.png",
@@ -224,7 +207,6 @@
     "_notes/_staging/how-markdown-is-rendered.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/Beef in der Geschichtswissenschaft.md",
-    "_templates/Frontmatter.md",
     "assets/img/screenshot.png",
     "assets/img/fork_button.jpg",
     "_notes/_staging/Obsidian integration.md",

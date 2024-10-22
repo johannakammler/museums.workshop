@@ -4,7 +4,6 @@ title: Übersicht
 permalink: /uebersicht/
 content-type: eg
 ---
-## Übersicht
 
 Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich noch :)
 
@@ -21,5 +20,5 @@ Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich 
 
 ## Thema Johann Moritz 
 - Ideen 
-- Workshop Gütiger Herrscher
+- [[Workshop Gütiger Herrscher]]
 	- Literatur und Links
