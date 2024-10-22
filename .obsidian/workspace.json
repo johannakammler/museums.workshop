@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/_staging/Museumsführung für Kinder.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/_staging/Museumsführung für Kinder.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/_staging/Museumsführung für Kinder.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/_staging/Museumsführung für Kinder.md"
+                "file": "index.md"
               }
             }
           }
@@ -215,22 +215,29 @@
   },
   "active": "11f6ca90670cd9ae",
   "lastOpenFiles": [
-    "README.md",
+    "assets/img/favicon.png",
+    "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat-mini.png",
+    "assets/img/favicon_alt.png",
+    "assets/img/profile.png",
+    "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat.png",
+    "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat.jxr",
+    "assets/img/profile.jpg",
+    "assets/img/profile_alt.png",
+    "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat.jpg",
     "notes.md",
     "index.md",
     "dates.md",
     "about.md",
+    "_notes/_staging/Museumsführung für Kinder.md",
+    "README.md",
     "_notes/Ursprünge der Stadt Siegen.md",
     "_notes/Nikolaikirche.md",
-    "_notes/_staging/Museumsführung für Kinder.md",
     "_notes/_staging/How-to-setup-this-site.md",
     "_notes/_staging/how-markdown-is-rendered.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/Beef in der Geschichtswissenschaft.md",
     "_templates/Frontmatter.md",
-    "assets/img/profile.png",
     "assets/img/screenshot.png",
-    "assets/img/favicon.png",
     "assets/img/fork_button.jpg",
     "assets/img/new notes pref.png",
     "_notes/_staging/Obsidian integration.md",
