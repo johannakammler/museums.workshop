@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uebersicht"
+              "title": "Vorgaben vom Museum"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uebersicht"
+              "title": "Backlinks for Vorgaben vom Museum"
             }
           },
           {
@@ -165,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from uebersicht"
+              "title": "Outgoing links from Vorgaben vom Museum"
             }
           },
           {
@@ -192,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uebersicht.md"
+                "file": "_notes/Vorgaben vom Museum.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of uebersicht"
+              "title": "Outline of Vorgaben vom Museum"
             }
           }
         ]
@@ -217,9 +217,10 @@
   },
   "active": "2d13a3a98b24a746",
   "lastOpenFiles": [
+    "uebersicht.md",
+    "_notes/Vorgaben vom Museum.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/how-markdown-is-rendered.md",
-    "uebersicht.md",
     "about.md",
     "_notes/Notizen aus dem ersten Treffen.md",
     "_notes/Workshop Gütiger Herrscher.md",
@@ -227,7 +228,6 @@
     "_notes/Ideen Anna von Sachsen.md",
     "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
     "_notes/Kernlehrpläne.md",
-    "_notes/Vorgaben vom Museum.md",
     "robots.txt",
     "_notes/Inspiration und Vorbilder.md",
     "_notes/Ideen Oranierkinder.md",
