@@ -1,7 +1,7 @@
 ---
 title: Workshop Gütiger Herrscher
 tags:
-  - Johanna_Moritz
+  - Johann_Moritz
   - Workshop
 toc: true
 season: winter
@@ -33,8 +33,8 @@ permalink:
 	- dann wird diskutiert
 
 # Literatur und Links
-- Gerhard Brunn: Johann Moritz von Nassau-Siegen (1604) in der Geschichtsschreibung, in: Sein Feld war die Welt. Johann Moritz von Nassau-Siegen (1604-1679). Von Siegen über die Niederlande und Brasilien nach Brandenburg, hg. von Gerhard Brunn und Cornelius Neutsch (Studien zur Geschichte und Kultur Nordwesteuropas 14), Müster et. al. 2008, S. 11-48).
+- Gerhard Brunn: Johann Moritz von Nassau-Siegen (1604) in der Geschichtsschreibung, in: Sein Feld war die Welt. Johann Moritz von Nassau-Siegen (1604-1679). Von Siegen über die Niederlande und Brasilien nach Brandenburg, hg. von Gerhard Brunn und Cornelius Neutsch (Studien zur Geschichte und Kultur Nordwesteuropas 14), Münster et. al. 2008, S. 11-48.
 	- Volltext-PDF: [Brunn Gerhard - FJM in der Geschichtsschreibung.pdf](https://www.dropbox.com/scl/fi/n6sjnmsjt4n7xk2wmifjq/Brunn-Gerhard-FJM-in-der-Geschichtsschreibung.pdf?rlkey=oijeov4l8oux4m65s934tqbys&dl=0)
 -  Hermann Wätjen: Das holländische Kolonialreich in Brasilien. Ein Kapitel aus der Kolonialgeschichte des 17. Jahrhunderts, Haag/Gotha 1921.
 	- Volltext-PDF: [Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf](https://www.dropbox.com/scl/fi/5onbkbjckfd6on2t2hc2r/W-tjen-Hermann-Das-holl-ndische-Kolonialreich-in-Brasilien-1921.pdf?rlkey=11zshr44ae6403psnvyqdicp7&dl=0)
-	- ist laut Gerhard Brunn die "immer noch maßgebliche deutsche Darstellung zu Johann Mmoritz' Brasilienzeit"[[Gerhard Brunn: Die brasilianischen Jahre, in: Aufbruch in neue Welten. Johann Moritz von Nassau-Siegen (1604-1679). Der Brasilianer, hg. von Gerhard Brunn et. al., Siegen 2004, S. 37.::rsn]]
+	- ist laut Gerhard Brunn die "immer noch maßgebliche deutsche Darstellung zu Johann Moritz' Brasilienzeit"[[Gerhard Brunn: Die brasilianischen Jahre, in: Aufbruch in neue Welten. Johann Moritz von Nassau-Siegen (1604-1679). Der Brasilianer, hg. von Gerhard Brunn et. al., Siegen 2004, S. 37.::rsn]]

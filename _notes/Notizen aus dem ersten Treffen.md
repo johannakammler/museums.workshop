@@ -5,8 +5,9 @@ tags:
   - Allgemeines
 toc: true
 season: summer
-permalink: /nikolaikirche
+permalink:
 ---
+am 23.9.2024
 # Allgemeines 
 
  - Dauer der Workshops: 90 Minuten, festgesetzt durch Gebührenordnung
@@ -25,7 +26,10 @@ permalink: /nikolaikirche
 ## Schwerpunkt Oranier 
 - Anna von Sachsen als Kriminalfall 
 - man bekommt eine Box mit ganz vielen Hinweisen, Quellen, Bildern und setzt dann ein Bild von ihrem Leben zusammen 
-
+- Wie wirkt sich Familiengeschichte der Herrscher auf die normalen Menschen aus? 
+	- Familienstreitigkeiten um Religion
+	- was hat der Streit mit den Menschen vor Ort gemacht, die ständig ihre Religion wechseln mussten?
+	- wie kann man das heute noch erkennen? (Geografische Verteilung der Religionen)
 ## Schwerpunkt FJM 
 - Gegensatz "humanistischer Fürst" und Sklavenhändler 
 	- Verbindung zu moderner Sklaverei / Billigarbeit in Asien / Handyherstellung

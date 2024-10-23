@@ -16,7 +16,9 @@
                 "file": "_notes/Notizen aus dem ersten Treffen.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notizen aus dem ersten Treffen"
             }
           },
           {
@@ -25,10 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/_staging/Nikolaikirche.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Workshop Gütiger Herrscher"
+            }
+          },
+          {
+            "id": "2d13a3a98b24a746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uebersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uebersicht"
             }
           },
           {
@@ -37,14 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uebersicht.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Vorgaben vom Museum"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -95,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/_staging/Nikolaikirche.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vorgaben vom Museum"
             }
           },
           {
@@ -135,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/_staging/Nikolaikirche.md",
+                "file": "_notes/Vorgaben vom Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vorgaben vom Museum"
             }
           },
           {
@@ -149,7 +181,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,8 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/_staging/Nikolaikirche.md"
-              }
+                "file": "_notes/Vorgaben vom Museum.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vorgaben vom Museum"
             }
           }
         ]
@@ -179,17 +215,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "710a4bb74304f248",
+  "active": "e39f1fd3658d6ded",
   "lastOpenFiles": [
+    "robots.txt",
+    "_notes/Notizen aus dem ersten Treffen.md",
+    "_notes/Vorgaben vom Museum.md",
+    "uebersicht.md",
+    "_notes/Inspiration und Vorbilder.md",
+    "_notes/Ideen Oranierkinder.md",
+    "_notes/Ideen Anna von Sachsen.md",
+    "_notes/Ideen FJM.md",
     "_notes/Workshop Gütiger Herrscher.md",
+    "_notes/_staging/Nikolaikirche.md",
     "assets/img/Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf",
     "assets/img/Brunn Gerhard - FJM in der Geschichtsschreibung.pdf",
-    "_notes/Notizen aus dem ersten Treffen.md",
-    "uebersicht.md",
     "_templates/Frontmatter.md",
     "dates.md",
     "_notes/Ursprünge der Stadt Siegen.md",
-    "_notes/_staging/Nikolaikirche.md",
     "index.md",
     "assets/img/favicon.png",
     "assets/img/Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen_quadrat-mini.png",
