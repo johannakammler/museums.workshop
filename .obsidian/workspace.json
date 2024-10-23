@@ -90,15 +90,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Übersicht.md",
+                "file": "_notes/Ideen Oranierkinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übersicht"
+              "title": "Ideen Oranierkinder"
+            }
+          },
+          {
+            "id": "d1cc40ff0c7a2638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Workshop Oranierkinder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workshop Oranierkinder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Workshop Gütiger Herrscher.md",
+                "file": "_notes/Workshop Oranierkinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Workshop Gütiger Herrscher"
+              "title": "Backlinks for Workshop Oranierkinder"
             }
           },
           {
@@ -199,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Workshop Gütiger Herrscher.md",
+                "file": "_notes/Workshop Oranierkinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Workshop Gütiger Herrscher"
+              "title": "Outgoing links from Workshop Oranierkinder"
             }
           },
           {
@@ -226,10 +241,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Workshop Gütiger Herrscher.md"
+                "file": "_notes/Workshop Oranierkinder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Workshop Gütiger Herrscher"
+              "title": "Outline of Workshop Oranierkinder"
             }
           }
         ]
@@ -249,12 +264,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b058caddbbcb8b94",
+  "active": "d1cc40ff0c7a2638",
   "lastOpenFiles": [
-    "Übersicht.md",
-    "_notes/Workshop Gütiger Herrscher.md",
-    "uebersicht-alt.md",
     "_notes/Ideen Oranierkinder.md",
+    "_notes/Workshop Oranierkinder.md",
+    "_notes/Workshop Gütiger Herrscher.md",
+    "Übersicht.md",
+    "uebersicht-alt.md",
     "_notes/Workshop Anna von Sachsen.md",
     "_notes/Vorgaben vom Museum.md",
     "_notes/Notizen aus dem ersten Treffen.md",
@@ -288,7 +304,6 @@
     "_notes/_staging/Museumsführung für Kinder.md",
     "README.md",
     "_notes/_staging/How-to-setup-this-site.md",
-    "_notes/_staging/Beef in der Geschichtswissenschaft.md",
     "assets/img/screenshot.png",
     "assets/img/fork_button.jpg",
     "_notes/_staging",

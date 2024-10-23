@@ -44,7 +44,7 @@ permalink:
 # Nachforschen
 
 -  In der niederländischen Wikipedia steht, dass unter ihm zwar die erste Synagoge Amerikas gegründet wurde, er aber später die Religionsfreiheit wieder zurückgenommen hat.
-	- 
+	- jetzt steht es da nicht mehr - wahrscheinlich rausgenommen...
 
 # Literatur und Links
 
