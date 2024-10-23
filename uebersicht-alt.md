@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Übersicht
-permalink: /uebersicht/
+title: Übersicht alt
+permalink: 
 content-type: eg
 ---
 

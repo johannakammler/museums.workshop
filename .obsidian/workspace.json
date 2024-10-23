@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uebersicht.md",
+                "file": "uebersicht-alt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uebersicht"
+              "title": "uebersicht-alt"
             }
           },
           {
@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uebersicht.md",
+                "file": "uebersicht-alt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uebersicht"
+              "title": "uebersicht-alt"
+            }
+          },
+          {
+            "id": "b058caddbbcb8b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Übersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Übersicht"
             }
           },
           {
@@ -64,7 +78,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "9a315cbef75d0488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84210b230aed497b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uebersicht-alt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uebersicht-alt"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uebersicht.md",
+                "file": "Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uebersicht"
+              "title": "Backlinks for Übersicht"
             }
           },
           {
@@ -165,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uebersicht.md",
+                "file": "Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from uebersicht"
+              "title": "Outgoing links from Übersicht"
             }
           },
           {
@@ -192,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uebersicht.md"
+                "file": "Übersicht.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of uebersicht"
+              "title": "Outline of Übersicht"
             }
           }
         ]
@@ -215,10 +249,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d13a3a98b24a746",
+  "active": "b058caddbbcb8b94",
   "lastOpenFiles": [
+    "uebersicht-alt.md",
+    "Übersicht.md",
+    "tags.md",
     "_notes/Inspiration und Vorbilder.md",
-    "uebersicht.md",
     "_notes/Vorgaben vom Museum.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/how-markdown-is-rendered.md",
@@ -255,7 +291,6 @@
     "_notes/_staging/Beef in der Geschichtswissenschaft.md",
     "assets/img/screenshot.png",
     "assets/img/fork_button.jpg",
-    "_notes/_staging/Obsidian integration.md",
     "_notes/_staging",
     "_layouts/home.html",
     "_layouts/default.html",
