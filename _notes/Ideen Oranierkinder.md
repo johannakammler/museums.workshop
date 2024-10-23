@@ -3,7 +3,7 @@ title: Ideen Oranierkinder
 tags:
   - Ideen
   - Oranierkinder
-toc: true
+toc: false
 season: winter
 permalink:
 ---

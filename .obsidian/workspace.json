@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Übersicht.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übersicht"
+              "title": "Workshop Gütiger Herrscher"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Übersicht.md",
+                "file": "uebersicht-alt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Übersicht"
+              "title": "Backlinks for uebersicht-alt"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Übersicht.md",
+                "file": "uebersicht-alt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Übersicht"
+              "title": "Outgoing links from uebersicht-alt"
             }
           },
           {
@@ -226,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Übersicht.md"
+                "file": "uebersicht-alt.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Übersicht"
+              "title": "Outline of uebersicht-alt"
             }
           }
         ]
@@ -249,25 +249,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b058caddbbcb8b94",
+  "active": "84210b230aed497b",
   "lastOpenFiles": [
+    "_notes/Workshop Gütiger Herrscher.md",
     "uebersicht-alt.md",
+    "_notes/Ideen Oranierkinder.md",
+    "_notes/Workshop Anna von Sachsen.md",
+    "_notes/Vorgaben vom Museum.md",
+    "_notes/Notizen aus dem ersten Treffen.md",
+    "_notes/Kernlehrpläne.md",
+    "_notes/Inspiration und Vorbilder.md",
+    "_notes/Ideen FJM.md",
+    "_notes/Ideen Anna von Sachsen.md",
+    "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
     "Übersicht.md",
     "tags.md",
-    "_notes/Inspiration und Vorbilder.md",
-    "_notes/Vorgaben vom Museum.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/how-markdown-is-rendered.md",
     "about.md",
-    "_notes/Notizen aus dem ersten Treffen.md",
-    "_notes/Workshop Gütiger Herrscher.md",
-    "_notes/Workshop Anna von Sachsen.md",
-    "_notes/Ideen Anna von Sachsen.md",
-    "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
-    "_notes/Kernlehrpläne.md",
     "robots.txt",
-    "_notes/Ideen Oranierkinder.md",
-    "_notes/Ideen FJM.md",
     "_notes/_staging/Nikolaikirche.md",
     "assets/img/Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf",
     "assets/img/Brunn Gerhard - FJM in der Geschichtsschreibung.pdf",

@@ -3,7 +3,7 @@ title: Ideen FJM
 tags:
   - Ideen
   - Johann_Moritz
-toc: true
+toc: false
 season: winter
 permalink:
 ---

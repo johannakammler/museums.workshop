@@ -4,7 +4,7 @@ tags:
   - Übersetzungen
   - Texte
   - Johann_Moritz
-toc: true
+toc: false
 season: winter
 permalink:
 ---
