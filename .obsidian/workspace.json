@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Vorgaben vom Museum.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vorgaben vom Museum"
+              "title": "Workshop Gütiger Herrscher"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Vorgaben vom Museum.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vorgaben vom Museum"
+              "title": "Backlinks for Workshop Gütiger Herrscher"
             }
           },
           {
@@ -165,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Vorgaben vom Museum.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vorgaben vom Museum"
+              "title": "Outgoing links from Workshop Gütiger Herrscher"
             }
           },
           {
@@ -192,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Vorgaben vom Museum.md"
+                "file": "_notes/Workshop Gütiger Herrscher.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vorgaben vom Museum"
+              "title": "Outline of Workshop Gütiger Herrscher"
             }
           }
         ]
@@ -215,17 +215,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e39f1fd3658d6ded",
+  "active": "710a4bb74304f248",
   "lastOpenFiles": [
+    "_notes/Workshop Anna von Sachsen.md",
+    "_notes/Ideen Anna von Sachsen.md",
+    "_notes/Workshop Gütiger Herrscher.md",
+    "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
+    "_notes/Kernlehrpläne.md",
+    "uebersicht.md",
+    "_notes/Vorgaben vom Museum.md",
     "robots.txt",
     "_notes/Notizen aus dem ersten Treffen.md",
-    "_notes/Vorgaben vom Museum.md",
-    "uebersicht.md",
     "_notes/Inspiration und Vorbilder.md",
     "_notes/Ideen Oranierkinder.md",
-    "_notes/Ideen Anna von Sachsen.md",
     "_notes/Ideen FJM.md",
-    "_notes/Workshop Gütiger Herrscher.md",
     "_notes/_staging/Nikolaikirche.md",
     "assets/img/Wätjen Hermann - Das holländische Kolonialreich in Brasilien 1921.pdf",
     "assets/img/Brunn Gerhard - FJM in der Geschichtsschreibung.pdf",

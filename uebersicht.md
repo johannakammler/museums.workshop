@@ -10,7 +10,7 @@ Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich 
 ## Allgemeines zu den Workshops 
 - [[Vorgaben vom Museum ]]
 - [[_notes/Notizen aus dem ersten Treffen|Notizen aus dem ersten Treffen]]
-- Kernlehrpläne
+- [[Kernlehrpläne]]
 
 ## Thema Oranierkinder 
 - [[_notes/Ideen Oranierkinder|Ideen Oranierkinder|Ideen]] 
