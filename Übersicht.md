@@ -6,6 +6,8 @@ content-type: eg
 ---
 Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich noch :)
 
+Aus irgendeinem Grund funktionieren zwei Links in der oberen Kategorie nicht. Die Seiten gibt es aber.
+
 # Allgemeines zu den Workshops
 
 - [[Vorgaben vom Museum]]
