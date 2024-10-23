@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uebersicht-alt.md",
+                "file": "Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uebersicht-alt"
+              "title": "Übersicht"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uebersicht-alt.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uebersicht-alt"
+              "title": "Backlinks for Workshop Gütiger Herrscher"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uebersicht-alt.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from uebersicht-alt"
+              "title": "Outgoing links from Workshop Gütiger Herrscher"
             }
           },
           {
@@ -226,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uebersicht-alt.md"
+                "file": "_notes/Workshop Gütiger Herrscher.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of uebersicht-alt"
+              "title": "Outline of Workshop Gütiger Herrscher"
             }
           }
         ]
@@ -249,8 +249,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84210b230aed497b",
+  "active": "b058caddbbcb8b94",
   "lastOpenFiles": [
+    "Übersicht.md",
     "_notes/Workshop Gütiger Herrscher.md",
     "uebersicht-alt.md",
     "_notes/Ideen Oranierkinder.md",
@@ -262,7 +263,6 @@
     "_notes/Ideen FJM.md",
     "_notes/Ideen Anna von Sachsen.md",
     "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
-    "Übersicht.md",
     "tags.md",
     "_notes/_staging/How to use the special features.md",
     "_notes/_staging/how-markdown-is-rendered.md",

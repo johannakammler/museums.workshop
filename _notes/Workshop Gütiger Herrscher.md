@@ -9,7 +9,6 @@ permalink:
 ---
 # Ideen
 
-
 -  Quellenauswertung politisches Testament 
 
 - Quellenauswertung Sklavenhandel 

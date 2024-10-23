@@ -10,7 +10,7 @@ Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich 
 
 - [[Vorgaben vom Museum]]
 - [[Notizen aus dem ersten Treffen]]
-- [[Kernlehrpläne]]
+- [[Kernlehrpläne]] 
 - [[Inspiration und Vorbilder]]
 
 # Thema Oranierkinder
