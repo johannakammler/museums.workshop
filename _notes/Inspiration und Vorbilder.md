@@ -2,7 +2,7 @@
 title: Inspiration und Vorbilder
 tags:
   - Allgemeines
-toc: true
+toc: false
 season: summer
 permalink:
 ---
