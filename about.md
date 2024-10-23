@@ -14,8 +14,8 @@ In der Tradition eines [digitalen Gartens](https://garyhollingsbee.com/blog/2021
 
 # Technisches 
 
-Diese Seite ist ein Fork von [[https://github.com/Maxence-L/notenote.link|notenote.link]], was wiederum ein Fork von [[https://github.com/raghuveerdotnet/simply-jekyll|Simply Jekyll]] ist. 
+Diese Seite ist ein Fork von [notenote.link](https://github.com/Maxence-L/notenote.link), was wiederum ein Fork von [Simply Jekyll](https://github.com/raghudotcc/simply-jekyll) ist. 
 
-Die Texte enstehen in [[https://obsidian.md|Obsidian]] und landen dann über Github und Netlify auf einer Seite, die mit Jekyll gebaut ist.
+Die Texte enstehen in [Obsidian](https://obsidian.md)und landen dann über Github und Netlify auf einer Seite, die mit Jekyll gebaut ist.
 
-Anleitung bei [[https://github.com/Maxence-L/notenote.link|notenote.link]], wobei ich das Klonen auf die Festplatte über Git Desktop mache.
+Anleitung bei [Maxime Vaillancourt](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) wobei ich das Klonen auf die Festplatte über Git Desktop mache.
