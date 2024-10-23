@@ -11,6 +11,9 @@ Die Seiten sind teilweise noch etwas leer, aber das ändert sich ja hoffentlich 
 - [[Vorgaben vom Museum]]
 - [[Notizen aus dem ersten Treffen]]
 - [[_notes/Kernlehrpläne|Kernlehrpläne]]
+- [[_notes/Workshop Anna von Sachsen|Workshop Anna von Sachsen]]
+- [[_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad|DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad]] 
+- [[Inspiration und Vorbilder]]
 
 ## Thema Oranierkinder 
 - [[_notes/Ideen Oranierkinder|Ideen Oranierkinder]]
