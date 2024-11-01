@@ -1,3 +1,13 @@
+---
+title: Konzept FJM
+tags:
+  - Workshop
+  - Johann_Moritz
+  - Konzept
+toc: true
+season: winter
+permalink:
+---
 #### Dauer
 90 Minuten 
 
