@@ -6,6 +6,7 @@
       {
         "id": "004f106d2809b4ca",
         "type": "tabs",
+        "dimension": 71.12944162436548,
         "children": [
           {
             "id": "11f6ca90670cd9ae",
@@ -55,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Workshop Gütiger Herrscher.md",
+                "file": "_notes/Konzept FJM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshop Gütiger Herrscher"
+              "title": "Konzept FJM"
             }
           },
           {
@@ -83,6 +84,7 @@
       {
         "id": "9a315cbef75d0488",
         "type": "tabs",
+        "dimension": 28.87055837563452,
         "children": [
           {
             "id": "84210b230aed497b",
@@ -90,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Ideen Oranierkinder.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideen Oranierkinder"
+              "title": "Workshop Gütiger Herrscher"
             }
           },
           {
@@ -104,16 +106,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Workshop Oranierkinder.md",
+                "file": "_notes/Kernlehrpläne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshop Oranierkinder"
+              "title": "Kernlehrpläne"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Workshop Oranierkinder.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Workshop Oranierkinder"
+              "title": "Backlinks for Workshop Gütiger Herrscher"
             }
           },
           {
@@ -214,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Workshop Oranierkinder.md",
+                "file": "_notes/Workshop Gütiger Herrscher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Workshop Oranierkinder"
+              "title": "Outgoing links from Workshop Gütiger Herrscher"
             }
           },
           {
@@ -241,10 +242,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Workshop Oranierkinder.md"
+                "file": "_notes/Workshop Gütiger Herrscher.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Workshop Oranierkinder"
+              "title": "Outline of Workshop Gütiger Herrscher"
             }
           }
         ]
@@ -264,24 +265,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1cc40ff0c7a2638",
+  "active": "b058caddbbcb8b94",
   "lastOpenFiles": [
-    "_notes/Ideen Oranierkinder.md",
-    "_notes/Workshop Oranierkinder.md",
     "_notes/Workshop Gütiger Herrscher.md",
+    "_notes/Konzept FJM.md",
+    "_notes/_staging/how-markdown-is-rendered.md",
+    "_notes/_staging/How to use the special features.md",
+    "_notes/Ideen Oranierkinder.md",
+    "_notes/Kernlehrpläne.md",
+    "_notes/Workshop Oranierkinder.md",
     "Übersicht.md",
     "uebersicht-alt.md",
     "_notes/Workshop Anna von Sachsen.md",
     "_notes/Vorgaben vom Museum.md",
     "_notes/Notizen aus dem ersten Treffen.md",
-    "_notes/Kernlehrpläne.md",
     "_notes/Inspiration und Vorbilder.md",
     "_notes/Ideen FJM.md",
     "_notes/Ideen Anna von Sachsen.md",
     "_notes/DeepL-Übersetzung des Zeitungsartikels aus dem Dagblad.md",
     "tags.md",
-    "_notes/_staging/How to use the special features.md",
-    "_notes/_staging/how-markdown-is-rendered.md",
     "about.md",
     "robots.txt",
     "_notes/_staging/Nikolaikirche.md",
@@ -303,7 +305,6 @@
     "notes.md",
     "_notes/_staging/Museumsführung für Kinder.md",
     "README.md",
-    "_notes/_staging/How-to-setup-this-site.md",
     "assets/img/screenshot.png",
     "assets/img/fork_button.jpg",
     "_notes/_staging",

@@ -7,6 +7,8 @@ toc: true
 season: winter
 permalink:
 ---
+- [[Konzept FJM]]
+
 # Ideen
 
 -  Quellenauswertung politisches Testament 
